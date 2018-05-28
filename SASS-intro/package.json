@@ -1,0 +1,14 @@
+{
+  "name": "sass-intro",
+  "version": "1.0.0",
+  "description": "SASS intro",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass C:\\Users\\Shu\\Documents\\CSS-SASS\\SASS-intro\\main.scss C:\\Users\\Shu\\Documents\\CSS-SASS\\SASS-intro\\main.css"
+  },
+  "author": "Shu",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
